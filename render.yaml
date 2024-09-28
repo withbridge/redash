@@ -1,6 +1,6 @@
 databases:
-  - name: redash
-    databaseName: redash-postgres
+  - name: redash-postgres
+    databaseName: redash
     user: redash
 
 services:
